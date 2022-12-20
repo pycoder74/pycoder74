@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pycoder74
-- 👀 I’m interested in ... coding apps
+- 👀 I’m interested in ... coding for eos
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...Coding a To-Do App
+- 💞️ I’m looking to collaborate on ...Coding eos... an office app (like office 365)
 - 📫 How to reach me ...elliott.kelly08@outlook.com
 
 <!---
